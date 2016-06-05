@@ -1,0 +1,800 @@
+Done iteration 1, BirthRate 1.000000, PredationRate 1.500000
+     SpDens: 1.000000, 0.000000 
+Done iteration 2, BirthRate 1.000000, PredationRate 2.000000
+     SpDens: 1.000000, 0.000000 
+Done iteration 3, BirthRate 1.000000, PredationRate 2.500000
+     SpDens: 0.998081, 0.000537 
+Done iteration 4, BirthRate 1.000000, PredationRate 3.000000
+     SpDens: 0.896775, 0.026915 
+Done iteration 5, BirthRate 1.000000, PredationRate 3.500000
+     SpDens: 0.694016, 0.069251 
+Done iteration 6, BirthRate 1.000000, PredationRate 4.000000
+     SpDens: 0.603714, 0.078391 
+Done iteration 7, BirthRate 1.000000, PredationRate 4.500000
+     SpDens: 0.537297, 0.081374 
+Done iteration 8, BirthRate 1.000000, PredationRate 5.000000
+     SpDens: 0.481880, 0.080530 
+Done iteration 9, BirthRate 1.000000, PredationRate 5.500000
+     SpDens: 0.428339, 0.079244 
+Done iteration 10, BirthRate 1.000000, PredationRate 6.000000
+     SpDens: 0.391793, 0.076254 
+Done iteration 11, BirthRate 1.000000, PredationRate 6.500000
+     SpDens: 0.364801, 0.072012 
+Done iteration 12, BirthRate 1.000000, PredationRate 7.000000
+     SpDens: 0.343597, 0.067562 
+Done iteration 13, BirthRate 1.000000, PredationRate 7.500000
+     SpDens: 0.334392, 0.060681 
+Done iteration 14, BirthRate 1.000000, PredationRate 8.000000
+     SpDens: 0.321618, 0.058394 
+Done iteration 15, BirthRate 1.000000, PredationRate 8.500000
+     SpDens: 0.322927, 0.053545 
+Done iteration 16, BirthRate 1.000000, PredationRate 9.000000
+     SpDens: 0.312146, 0.050708 
+Done iteration 17, BirthRate 1.000000, PredationRate 9.500000
+     SpDens: 0.318698, 0.042647 
+Done iteration 18, BirthRate 1.000000, PredationRate 10.000000
+     SpDens: 0.310574, 0.040354 
+Done iteration 19, BirthRate 1.000000, PredationRate 10.500000
+     SpDens: 0.334926, 0.033360 
+Done iteration 20, BirthRate 1.000000, PredationRate 11.000000
+     SpDens: 0.322789, 0.032862 
+Done iteration 21, BirthRate 1.500000, PredationRate 1.500000
+     SpDens: 1.000000, 0.000000 
+Done iteration 22, BirthRate 1.500000, PredationRate 2.000000
+     SpDens: 0.999439, 0.000223 
+Done iteration 23, BirthRate 1.500000, PredationRate 2.500000
+     SpDens: 0.937187, 0.023746 
+Done iteration 24, BirthRate 1.500000, PredationRate 3.000000
+     SpDens: 0.714215, 0.095375 
+Done iteration 25, BirthRate 1.500000, PredationRate 3.500000
+     SpDens: 0.598035, 0.117517 
+Done iteration 26, BirthRate 1.500000, PredationRate 4.000000
+     SpDens: 0.518082, 0.124294 
+Done iteration 27, BirthRate 1.500000, PredationRate 4.500000
+     SpDens: 0.455892, 0.126300 
+Done iteration 28, BirthRate 1.500000, PredationRate 5.000000
+     SpDens: 0.405785, 0.123735 
+Done iteration 29, BirthRate 1.500000, PredationRate 5.500000
+     SpDens: 0.370459, 0.118313 
+Done iteration 30, BirthRate 1.500000, PredationRate 6.000000
+     SpDens: 0.342576, 0.110985 
+Done iteration 31, BirthRate 1.500000, PredationRate 6.500000
+     SpDens: 0.316960, 0.105119 
+Done iteration 32, BirthRate 1.500000, PredationRate 7.000000
+     SpDens: 0.294966, 0.099778 
+Done iteration 33, BirthRate 1.500000, PredationRate 7.500000
+     SpDens: 0.276152, 0.091237 
+Done iteration 34, BirthRate 1.500000, PredationRate 8.000000
+     SpDens: 0.261233, 0.088141 
+Done iteration 35, BirthRate 1.500000, PredationRate 8.500000
+     SpDens: 0.240251, 0.081710 
+Done iteration 36, BirthRate 1.500000, PredationRate 9.000000
+     SpDens: 0.235200, 0.076068 
+Done iteration 37, BirthRate 1.500000, PredationRate 9.500000
+     SpDens: 0.235995, 0.068506 
+Done iteration 38, BirthRate 1.500000, PredationRate 10.000000
+     SpDens: 0.228227, 0.062519 
+Done iteration 39, BirthRate 1.500000, PredationRate 10.500000
+     SpDens: 0.223098, 0.055693 
+Done iteration 40, BirthRate 1.500000, PredationRate 11.000000
+     SpDens: 0.228620, 0.051161 
+Done iteration 41, BirthRate 2.000000, PredationRate 1.500000
+     SpDens: 1.000000, 0.000000 
+Done iteration 42, BirthRate 2.000000, PredationRate 2.000000
+     SpDens: 0.998304, 0.000809 
+Done iteration 43, BirthRate 2.000000, PredationRate 2.500000
+     SpDens: 0.837542, 0.071876 
+Done iteration 44, BirthRate 2.000000, PredationRate 3.000000
+     SpDens: 0.640123, 0.140551 
+Done iteration 45, BirthRate 2.000000, PredationRate 3.500000
+     SpDens: 0.543580, 0.158022 
+Done iteration 46, BirthRate 2.000000, PredationRate 4.000000
+     SpDens: 0.468430, 0.164413 
+Done iteration 47, BirthRate 2.000000, PredationRate 4.500000
+     SpDens: 0.420075, 0.161900 
+Done iteration 48, BirthRate 2.000000, PredationRate 5.000000
+     SpDens: 0.377553, 0.156752 
+Done iteration 49, BirthRate 2.000000, PredationRate 5.500000
+     SpDens: 0.339634, 0.150544 
+Done iteration 50, BirthRate 2.000000, PredationRate 6.000000
+     SpDens: 0.311643, 0.143453 
+Done iteration 51, BirthRate 2.000000, PredationRate 6.500000
+     SpDens: 0.282668, 0.135169 
+Done iteration 52, BirthRate 2.000000, PredationRate 7.000000
+     SpDens: 0.258296, 0.127663 
+Done iteration 53, BirthRate 2.000000, PredationRate 7.500000
+     SpDens: 0.241372, 0.118692 
+Done iteration 54, BirthRate 2.000000, PredationRate 8.000000
+     SpDens: 0.222094, 0.110088 
+Done iteration 55, BirthRate 2.000000, PredationRate 8.500000
+     SpDens: 0.211980, 0.105183 
+Done iteration 56, BirthRate 2.000000, PredationRate 9.000000
+     SpDens: 0.203090, 0.096257 
+Done iteration 57, BirthRate 2.000000, PredationRate 9.500000
+     SpDens: 0.192146, 0.088641 
+Done iteration 58, BirthRate 2.000000, PredationRate 10.000000
+     SpDens: 0.187250, 0.080926 
+Done iteration 59, BirthRate 2.000000, PredationRate 10.500000
+     SpDens: 0.175322, 0.076604 
+Done iteration 60, BirthRate 2.000000, PredationRate 11.000000
+     SpDens: 0.167512, 0.065650 
+Done iteration 61, BirthRate 2.500000, PredationRate 1.500000
+     SpDens: 1.000000, 0.000000 
+Done iteration 62, BirthRate 2.500000, PredationRate 2.000000
+     SpDens: 0.983946, 0.008618 
+Done iteration 63, BirthRate 2.500000, PredationRate 2.500000
+     SpDens: 0.745147, 0.124902 
+Done iteration 64, BirthRate 2.500000, PredationRate 3.000000
+     SpDens: 0.600691, 0.174009 
+Done iteration 65, BirthRate 2.500000, PredationRate 3.500000
+     SpDens: 0.506652, 0.191892 
+Done iteration 66, BirthRate 2.500000, PredationRate 4.000000
+     SpDens: 0.441827, 0.195717 
+Done iteration 67, BirthRate 2.500000, PredationRate 4.500000
+     SpDens: 0.390047, 0.193754 
+Done iteration 68, BirthRate 2.500000, PredationRate 5.000000
+     SpDens: 0.351348, 0.186822 
+Done iteration 69, BirthRate 2.500000, PredationRate 5.500000
+     SpDens: 0.321475, 0.179473 
+Done iteration 70, BirthRate 2.500000, PredationRate 6.000000
+     SpDens: 0.294238, 0.171807 
+Done iteration 71, BirthRate 2.500000, PredationRate 6.500000
+     SpDens: 0.268390, 0.161814 
+Done iteration 72, BirthRate 2.500000, PredationRate 7.000000
+     SpDens: 0.248055, 0.152122 
+Done iteration 73, BirthRate 2.500000, PredationRate 7.500000
+     SpDens: 0.225736, 0.142408 
+Done iteration 74, BirthRate 2.500000, PredationRate 8.000000
+     SpDens: 0.208185, 0.135894 
+Done iteration 75, BirthRate 2.500000, PredationRate 8.500000
+     SpDens: 0.194651, 0.128148 
+Done iteration 76, BirthRate 2.500000, PredationRate 9.000000
+     SpDens: 0.179693, 0.117757 
+Done iteration 77, BirthRate 2.500000, PredationRate 9.500000
+     SpDens: 0.170699, 0.109283 
+Done iteration 78, BirthRate 2.500000, PredationRate 10.000000
+     SpDens: 0.157186, 0.096846 
+Done iteration 79, BirthRate 2.500000, PredationRate 10.500000
+     SpDens: 0.143723, 0.090144 
+Done iteration 80, BirthRate 2.500000, PredationRate 11.000000
+     SpDens: 0.141427, 0.082921 
+Done iteration 81, BirthRate 3.000000, PredationRate 1.500000
+     SpDens: 0.999994, 0.000003 
+Done iteration 82, BirthRate 3.000000, PredationRate 2.000000
+     SpDens: 0.968718, 0.018415 
+Done iteration 83, BirthRate 3.000000, PredationRate 2.500000
+     SpDens: 0.705333, 0.155779 
+Done iteration 84, BirthRate 3.000000, PredationRate 3.000000
+     SpDens: 0.568844, 0.204240 
+Done iteration 85, BirthRate 3.000000, PredationRate 3.500000
+     SpDens: 0.481639, 0.221043 
+Done iteration 86, BirthRate 3.000000, PredationRate 4.000000
+     SpDens: 0.422843, 0.222056 
+Done iteration 87, BirthRate 3.000000, PredationRate 4.500000
+     SpDens: 0.372952, 0.220219 
+Done iteration 88, BirthRate 3.000000, PredationRate 5.000000
+     SpDens: 0.336846, 0.212335 
+Done iteration 89, BirthRate 3.000000, PredationRate 5.500000
+     SpDens: 0.307461, 0.203474 
+Done iteration 90, BirthRate 3.000000, PredationRate 6.000000
+     SpDens: 0.279562, 0.193806 
+Done iteration 91, BirthRate 3.000000, PredationRate 6.500000
+     SpDens: 0.255733, 0.184262 
+Done iteration 92, BirthRate 3.000000, PredationRate 7.000000
+     SpDens: 0.235223, 0.175332 
+Done iteration 93, BirthRate 3.000000, PredationRate 7.500000
+     SpDens: 0.219471, 0.164170 
+Done iteration 94, BirthRate 3.000000, PredationRate 8.000000
+     SpDens: 0.200392, 0.155807 
+Done iteration 95, BirthRate 3.000000, PredationRate 8.500000
+     SpDens: 0.185766, 0.146850 
+Done iteration 96, BirthRate 3.000000, PredationRate 9.000000
+     SpDens: 0.171125, 0.138179 
+Done iteration 97, BirthRate 3.000000, PredationRate 9.500000
+     SpDens: 0.159282, 0.125471 
+Done iteration 98, BirthRate 3.000000, PredationRate 10.000000
+     SpDens: 0.146597, 0.118687 
+Done iteration 99, BirthRate 3.000000, PredationRate 10.500000
+     SpDens: 0.133959, 0.108380 
+Done iteration 100, BirthRate 3.000000, PredationRate 11.000000
+     SpDens: 0.123420, 0.098321 
+Done iteration 101, BirthRate 3.500000, PredationRate 1.500000
+     SpDens: 1.000000, 0.000000 
+Done iteration 102, BirthRate 3.500000, PredationRate 2.000000
+     SpDens: 0.946274, 0.033511 
+Done iteration 103, BirthRate 3.500000, PredationRate 2.500000
+     SpDens: 0.679687, 0.179341 
+Done iteration 104, BirthRate 3.500000, PredationRate 3.000000
+     SpDens: 0.547035, 0.228921 
+Done iteration 105, BirthRate 3.500000, PredationRate 3.500000
+     SpDens: 0.463143, 0.245458 
+Done iteration 106, BirthRate 3.500000, PredationRate 4.000000
+     SpDens: 0.405804, 0.246895 
+Done iteration 107, BirthRate 3.500000, PredationRate 4.500000
+     SpDens: 0.360692, 0.242258 
+Done iteration 108, BirthRate 3.500000, PredationRate 5.000000
+     SpDens: 0.325065, 0.235566 
+Done iteration 109, BirthRate 3.500000, PredationRate 5.500000
+     SpDens: 0.296418, 0.226276 
+Done iteration 110, BirthRate 3.500000, PredationRate 6.000000
+     SpDens: 0.269115, 0.217132 
+Done iteration 111, BirthRate 3.500000, PredationRate 6.500000
+     SpDens: 0.247989, 0.206315 
+Done iteration 112, BirthRate 3.500000, PredationRate 7.000000
+     SpDens: 0.230063, 0.195593 
+Done iteration 113, BirthRate 3.500000, PredationRate 7.500000
+     SpDens: 0.210429, 0.184436 
+Done iteration 114, BirthRate 3.500000, PredationRate 8.000000
+     SpDens: 0.193728, 0.174606 
+Done iteration 115, BirthRate 3.500000, PredationRate 8.500000
+     SpDens: 0.182648, 0.166961 
+Done iteration 116, BirthRate 3.500000, PredationRate 9.000000
+     SpDens: 0.168247, 0.159230 
+Done iteration 117, BirthRate 3.500000, PredationRate 9.500000
+     SpDens: 0.153599, 0.145182 
+Done iteration 118, BirthRate 3.500000, PredationRate 10.000000
+     SpDens: 0.140209, 0.134931 
+Done iteration 119, BirthRate 3.500000, PredationRate 10.500000
+     SpDens: 0.128866, 0.124488 
+Done iteration 120, BirthRate 3.500000, PredationRate 11.000000
+     SpDens: 0.120281, 0.117169 
+Done iteration 121, BirthRate 4.000000, PredationRate 1.500000
+     SpDens: 0.999985, 0.000008 
+Done iteration 122, BirthRate 4.000000, PredationRate 2.000000
+     SpDens: 0.918943, 0.052791 
+Done iteration 123, BirthRate 4.000000, PredationRate 2.500000
+     SpDens: 0.652571, 0.203837 
+Done iteration 124, BirthRate 4.000000, PredationRate 3.000000
+     SpDens: 0.527614, 0.251439 
+Done iteration 125, BirthRate 4.000000, PredationRate 3.500000
+     SpDens: 0.449315, 0.266475 
+Done iteration 126, BirthRate 4.000000, PredationRate 4.000000
+     SpDens: 0.394201, 0.267905 
+Done iteration 127, BirthRate 4.000000, PredationRate 4.500000
+     SpDens: 0.351648, 0.263750 
+Done iteration 128, BirthRate 4.000000, PredationRate 5.000000
+     SpDens: 0.318847, 0.254734 
+Done iteration 129, BirthRate 4.000000, PredationRate 5.500000
+     SpDens: 0.288724, 0.245201 
+Done iteration 130, BirthRate 4.000000, PredationRate 6.000000
+     SpDens: 0.265183, 0.236043 
+Done iteration 131, BirthRate 4.000000, PredationRate 6.500000
+     SpDens: 0.243748, 0.223846 
+Done iteration 132, BirthRate 4.000000, PredationRate 7.000000
+     SpDens: 0.224882, 0.212998 
+Done iteration 133, BirthRate 4.000000, PredationRate 7.500000
+     SpDens: 0.206502, 0.203297 
+Done iteration 134, BirthRate 4.000000, PredationRate 8.000000
+     SpDens: 0.191510, 0.190912 
+Done iteration 135, BirthRate 4.000000, PredationRate 8.500000
+     SpDens: 0.178970, 0.184016 
+Done iteration 136, BirthRate 4.000000, PredationRate 9.000000
+     SpDens: 0.163921, 0.173096 
+Done iteration 137, BirthRate 4.000000, PredationRate 9.500000
+     SpDens: 0.149059, 0.159995 
+Done iteration 138, BirthRate 4.000000, PredationRate 10.000000
+     SpDens: 0.140143, 0.154199 
+Done iteration 139, BirthRate 4.000000, PredationRate 10.500000
+     SpDens: 0.128590, 0.142484 
+Done iteration 140, BirthRate 4.000000, PredationRate 11.000000
+     SpDens: 0.121008, 0.134564 
+Done iteration 141, BirthRate 4.500000, PredationRate 1.500000
+     SpDens: 1.000000, 0.000000 
+Done iteration 142, BirthRate 4.500000, PredationRate 2.000000
+     SpDens: 0.888531, 0.075285 
+Done iteration 143, BirthRate 4.500000, PredationRate 2.500000
+     SpDens: 0.634487, 0.222951 
+Done iteration 144, BirthRate 4.500000, PredationRate 3.000000
+     SpDens: 0.516462, 0.268598 
+Done iteration 145, BirthRate 4.500000, PredationRate 3.500000
+     SpDens: 0.439685, 0.285551 
+Done iteration 146, BirthRate 4.500000, PredationRate 4.000000
+     SpDens: 0.383266, 0.287783 
+Done iteration 147, BirthRate 4.500000, PredationRate 4.500000
+     SpDens: 0.344176, 0.282453 
+Done iteration 148, BirthRate 4.500000, PredationRate 5.000000
+     SpDens: 0.309480, 0.273766 
+Done iteration 149, BirthRate 4.500000, PredationRate 5.500000
+     SpDens: 0.285100, 0.262501 
+Done iteration 150, BirthRate 4.500000, PredationRate 6.000000
+     SpDens: 0.260363, 0.252419 
+Done iteration 151, BirthRate 4.500000, PredationRate 6.500000
+     SpDens: 0.241026, 0.242345 
+Done iteration 152, BirthRate 4.500000, PredationRate 7.000000
+     SpDens: 0.221752, 0.229096 
+Done iteration 153, BirthRate 4.500000, PredationRate 7.500000
+     SpDens: 0.204837, 0.218974 
+Done iteration 154, BirthRate 4.500000, PredationRate 8.000000
+     SpDens: 0.189305, 0.206369 
+Done iteration 155, BirthRate 4.500000, PredationRate 8.500000
+     SpDens: 0.177215, 0.200487 
+Done iteration 156, BirthRate 4.500000, PredationRate 9.000000
+     SpDens: 0.163905, 0.188912 
+Done iteration 157, BirthRate 4.500000, PredationRate 9.500000
+     SpDens: 0.151159, 0.179476 
+Done iteration 158, BirthRate 4.500000, PredationRate 10.000000
+     SpDens: 0.139118, 0.168136 
+Done iteration 159, BirthRate 4.500000, PredationRate 10.500000
+     SpDens: 0.129200, 0.159858 
+Done iteration 160, BirthRate 4.500000, PredationRate 11.000000
+     SpDens: 0.120291, 0.149620 
+Done iteration 161, BirthRate 5.000000, PredationRate 1.500000
+     SpDens: 0.999972, 0.000020 
+Done iteration 162, BirthRate 5.000000, PredationRate 2.000000
+     SpDens: 0.867872, 0.091616 
+Done iteration 163, BirthRate 5.000000, PredationRate 2.500000
+     SpDens: 0.625917, 0.236364 
+Done iteration 164, BirthRate 5.000000, PredationRate 3.000000
+     SpDens: 0.505439, 0.285031 
+Done iteration 165, BirthRate 5.000000, PredationRate 3.500000
+     SpDens: 0.430183, 0.301689 
+Done iteration 166, BirthRate 5.000000, PredationRate 4.000000
+     SpDens: 0.375862, 0.303989 
+Done iteration 167, BirthRate 5.000000, PredationRate 4.500000
+     SpDens: 0.336620, 0.298299 
+Done iteration 168, BirthRate 5.000000, PredationRate 5.000000
+     SpDens: 0.305428, 0.290723 
+Done iteration 169, BirthRate 5.000000, PredationRate 5.500000
+     SpDens: 0.278487, 0.280236 
+Done iteration 170, BirthRate 5.000000, PredationRate 6.000000
+     SpDens: 0.255627, 0.268745 
+Done iteration 171, BirthRate 5.000000, PredationRate 6.500000
+     SpDens: 0.237137, 0.257105 
+Done iteration 172, BirthRate 5.000000, PredationRate 7.000000
+     SpDens: 0.220180, 0.243751 
+Done iteration 173, BirthRate 5.000000, PredationRate 7.500000
+     SpDens: 0.204935, 0.234281 
+Done iteration 174, BirthRate 5.000000, PredationRate 8.000000
+     SpDens: 0.189321, 0.223094 
+Done iteration 175, BirthRate 5.000000, PredationRate 8.500000
+     SpDens: 0.176570, 0.215194 
+Done iteration 176, BirthRate 5.000000, PredationRate 9.000000
+     SpDens: 0.165038, 0.205354 
+Done iteration 177, BirthRate 5.000000, PredationRate 9.500000
+     SpDens: 0.152024, 0.191959 
+Done iteration 178, BirthRate 5.000000, PredationRate 10.000000
+     SpDens: 0.140094, 0.182165 
+Done iteration 179, BirthRate 5.000000, PredationRate 10.500000
+     SpDens: 0.130372, 0.174584 
+Done iteration 180, BirthRate 5.000000, PredationRate 11.000000
+     SpDens: 0.122183, 0.165621 
+Done iteration 181, BirthRate 5.500000, PredationRate 1.500000
+     SpDens: 0.999835, 0.000123 
+Done iteration 182, BirthRate 5.500000, PredationRate 2.000000
+     SpDens: 0.852223, 0.105122 
+Done iteration 183, BirthRate 5.500000, PredationRate 2.500000
+     SpDens: 0.610674, 0.252950 
+Done iteration 184, BirthRate 5.500000, PredationRate 3.000000
+     SpDens: 0.496621, 0.300203 
+Done iteration 185, BirthRate 5.500000, PredationRate 3.500000
+     SpDens: 0.422333, 0.317211 
+Done iteration 186, BirthRate 5.500000, PredationRate 4.000000
+     SpDens: 0.371851, 0.318537 
+Done iteration 187, BirthRate 5.500000, PredationRate 4.500000
+     SpDens: 0.331636, 0.314083 
+Done iteration 188, BirthRate 5.500000, PredationRate 5.000000
+     SpDens: 0.301526, 0.304218 
+Done iteration 189, BirthRate 5.500000, PredationRate 5.500000
+     SpDens: 0.274502, 0.294808 
+Done iteration 190, BirthRate 5.500000, PredationRate 6.000000
+     SpDens: 0.253912, 0.282551 
+Done iteration 191, BirthRate 5.500000, PredationRate 6.500000
+     SpDens: 0.233061, 0.270417 
+Done iteration 192, BirthRate 5.500000, PredationRate 7.000000
+     SpDens: 0.217705, 0.259004 
+Done iteration 193, BirthRate 5.500000, PredationRate 7.500000
+     SpDens: 0.201552, 0.247627 
+Done iteration 194, BirthRate 5.500000, PredationRate 8.000000
+     SpDens: 0.188149, 0.234715 
+Done iteration 195, BirthRate 5.500000, PredationRate 8.500000
+     SpDens: 0.178510, 0.227973 
+Done iteration 196, BirthRate 5.500000, PredationRate 9.000000
+     SpDens: 0.166155, 0.218399 
+Done iteration 197, BirthRate 5.500000, PredationRate 9.500000
+     SpDens: 0.153575, 0.206658 
+Done iteration 198, BirthRate 5.500000, PredationRate 10.000000
+     SpDens: 0.142211, 0.197432 
+Done iteration 199, BirthRate 5.500000, PredationRate 10.500000
+     SpDens: 0.131795, 0.186563 
+Done iteration 200, BirthRate 5.500000, PredationRate 11.000000
+     SpDens: 0.122494, 0.177941 
+Done iteration 201, BirthRate 6.000000, PredationRate 1.500000
+     SpDens: 0.999866, 0.000100 
+Done iteration 202, BirthRate 6.000000, PredationRate 2.000000
+     SpDens: 0.829956, 0.123538 
+Done iteration 203, BirthRate 6.000000, PredationRate 2.500000
+     SpDens: 0.601993, 0.264890 
+Done iteration 204, BirthRate 6.000000, PredationRate 3.000000
+     SpDens: 0.488006, 0.313539 
+Done iteration 205, BirthRate 6.000000, PredationRate 3.500000
+     SpDens: 0.416029, 0.330065 
+Done iteration 206, BirthRate 6.000000, PredationRate 4.000000
+     SpDens: 0.365488, 0.332905 
+Done iteration 207, BirthRate 6.000000, PredationRate 4.500000
+     SpDens: 0.327633, 0.326485 
+Done iteration 208, BirthRate 6.000000, PredationRate 5.000000
+     SpDens: 0.296292, 0.319758 
+Done iteration 209, BirthRate 6.000000, PredationRate 5.500000
+     SpDens: 0.271057, 0.308453 
+Done iteration 210, BirthRate 6.000000, PredationRate 6.000000
+     SpDens: 0.251234, 0.297275 
+Done iteration 211, BirthRate 6.000000, PredationRate 6.500000
+     SpDens: 0.231845, 0.285049 
+Done iteration 212, BirthRate 6.000000, PredationRate 7.000000
+     SpDens: 0.215705, 0.273346 
+Done iteration 213, BirthRate 6.000000, PredationRate 7.500000
+     SpDens: 0.202591, 0.260262 
+Done iteration 214, BirthRate 6.000000, PredationRate 8.000000
+     SpDens: 0.188529, 0.249197 
+Done iteration 215, BirthRate 6.000000, PredationRate 8.500000
+     SpDens: 0.177459, 0.241346 
+Done iteration 216, BirthRate 6.000000, PredationRate 9.000000
+     SpDens: 0.165231, 0.228451 
+Done iteration 217, BirthRate 6.000000, PredationRate 9.500000
+     SpDens: 0.152587, 0.218364 
+Done iteration 218, BirthRate 6.000000, PredationRate 10.000000
+     SpDens: 0.142684, 0.208479 
+Done iteration 219, BirthRate 6.000000, PredationRate 10.500000
+     SpDens: 0.133024, 0.199141 
+Done iteration 220, BirthRate 6.000000, PredationRate 11.000000
+     SpDens: 0.123399, 0.189456 
+Done iteration 221, BirthRate 6.500000, PredationRate 1.500000
+     SpDens: 0.999923, 0.000057 
+Done iteration 222, BirthRate 6.500000, PredationRate 2.000000
+     SpDens: 0.820556, 0.132780 
+Done iteration 223, BirthRate 6.500000, PredationRate 2.500000
+     SpDens: 0.591657, 0.277600 
+Done iteration 224, BirthRate 6.500000, PredationRate 3.000000
+     SpDens: 0.482821, 0.324384 
+Done iteration 225, BirthRate 6.500000, PredationRate 3.500000
+     SpDens: 0.409733, 0.342207 
+Done iteration 226, BirthRate 6.500000, PredationRate 4.000000
+     SpDens: 0.360224, 0.345130 
+Done iteration 227, BirthRate 6.500000, PredationRate 4.500000
+     SpDens: 0.322136, 0.339981 
+Done iteration 228, BirthRate 6.500000, PredationRate 5.000000
+     SpDens: 0.293254, 0.330786 
+Done iteration 229, BirthRate 6.500000, PredationRate 5.500000
+     SpDens: 0.267803, 0.318884 
+Done iteration 230, BirthRate 6.500000, PredationRate 6.000000
+     SpDens: 0.246654, 0.308794 
+Done iteration 231, BirthRate 6.500000, PredationRate 6.500000
+     SpDens: 0.228874, 0.296743 
+Done iteration 232, BirthRate 6.500000, PredationRate 7.000000
+     SpDens: 0.213953, 0.285273 
+Done iteration 233, BirthRate 6.500000, PredationRate 7.500000
+     SpDens: 0.199757, 0.274080 
+Done iteration 234, BirthRate 6.500000, PredationRate 8.000000
+     SpDens: 0.188101, 0.261948 
+Done iteration 235, BirthRate 6.500000, PredationRate 8.500000
+     SpDens: 0.176558, 0.251527 
+Done iteration 236, BirthRate 6.500000, PredationRate 9.000000
+     SpDens: 0.166724, 0.242198 
+Done iteration 237, BirthRate 6.500000, PredationRate 9.500000
+     SpDens: 0.153344, 0.228965 
+Done iteration 238, BirthRate 6.500000, PredationRate 10.000000
+     SpDens: 0.143552, 0.219861 
+Done iteration 239, BirthRate 6.500000, PredationRate 10.500000
+     SpDens: 0.135535, 0.207912 
+Done iteration 240, BirthRate 6.500000, PredationRate 11.000000
+     SpDens: 0.126233, 0.202633 
+Done iteration 241, BirthRate 7.000000, PredationRate 1.500000
+     SpDens: 0.999798, 0.000163 
+Done iteration 242, BirthRate 7.000000, PredationRate 2.000000
+     SpDens: 0.806779, 0.145250 
+Done iteration 243, BirthRate 7.000000, PredationRate 2.500000
+     SpDens: 0.589396, 0.284787 
+Done iteration 244, BirthRate 7.000000, PredationRate 3.000000
+     SpDens: 0.477936, 0.334990 
+Done iteration 245, BirthRate 7.000000, PredationRate 3.500000
+     SpDens: 0.404518, 0.353839 
+Done iteration 246, BirthRate 7.000000, PredationRate 4.000000
+     SpDens: 0.356103, 0.356103 
+Done iteration 247, BirthRate 7.000000, PredationRate 4.500000
+     SpDens: 0.319742, 0.351349 
+Done iteration 248, BirthRate 7.000000, PredationRate 5.000000
+     SpDens: 0.288512, 0.343419 
+Done iteration 249, BirthRate 7.000000, PredationRate 5.500000
+     SpDens: 0.264288, 0.331742 
+Done iteration 250, BirthRate 7.000000, PredationRate 6.000000
+     SpDens: 0.245269, 0.319707 
+Done iteration 251, BirthRate 7.000000, PredationRate 6.500000
+     SpDens: 0.227765, 0.307369 
+Done iteration 252, BirthRate 7.000000, PredationRate 7.000000
+     SpDens: 0.213148, 0.295545 
+Done iteration 253, BirthRate 7.000000, PredationRate 7.500000
+     SpDens: 0.200004, 0.283050 
+Done iteration 254, BirthRate 7.000000, PredationRate 8.000000
+     SpDens: 0.187419, 0.272701 
+Done iteration 255, BirthRate 7.000000, PredationRate 8.500000
+     SpDens: 0.176763, 0.263397 
+Done iteration 256, BirthRate 7.000000, PredationRate 9.000000
+     SpDens: 0.165017, 0.251716 
+Done iteration 257, BirthRate 7.000000, PredationRate 9.500000
+     SpDens: 0.155140, 0.239155 
+Done iteration 258, BirthRate 7.000000, PredationRate 10.000000
+     SpDens: 0.144784, 0.230362 
+Done iteration 259, BirthRate 7.000000, PredationRate 10.500000
+     SpDens: 0.136782, 0.221689 
+Done iteration 260, BirthRate 7.000000, PredationRate 11.000000
+     SpDens: 0.128123, 0.211067 
+Done iteration 261, BirthRate 7.500000, PredationRate 1.500000
+     SpDens: 0.999611, 0.000319 
+Done iteration 262, BirthRate 7.500000, PredationRate 2.000000
+     SpDens: 0.793056, 0.157694 
+Done iteration 263, BirthRate 7.500000, PredationRate 2.500000
+     SpDens: 0.577935, 0.297049 
+Done iteration 264, BirthRate 7.500000, PredationRate 3.000000
+     SpDens: 0.473517, 0.344219 
+Done iteration 265, BirthRate 7.500000, PredationRate 3.500000
+     SpDens: 0.400819, 0.363358 
+Done iteration 266, BirthRate 7.500000, PredationRate 4.000000
+     SpDens: 0.352647, 0.366904 
+Done iteration 267, BirthRate 7.500000, PredationRate 4.500000
+     SpDens: 0.315424, 0.361727 
+Done iteration 268, BirthRate 7.500000, PredationRate 5.000000
+     SpDens: 0.286120, 0.353902 
+Done iteration 269, BirthRate 7.500000, PredationRate 5.500000
+     SpDens: 0.262615, 0.342929 
+Done iteration 270, BirthRate 7.500000, PredationRate 6.000000
+     SpDens: 0.242192, 0.331429 
+Done iteration 271, BirthRate 7.500000, PredationRate 6.500000
+     SpDens: 0.226768, 0.316914 
+Done iteration 272, BirthRate 7.500000, PredationRate 7.000000
+     SpDens: 0.211000, 0.307988 
+Done iteration 273, BirthRate 7.500000, PredationRate 7.500000
+     SpDens: 0.197480, 0.293383 
+Done iteration 274, BirthRate 7.500000, PredationRate 8.000000
+     SpDens: 0.185984, 0.282792 
+Done iteration 275, BirthRate 7.500000, PredationRate 8.500000
+     SpDens: 0.175713, 0.272403 
+Done iteration 276, BirthRate 7.500000, PredationRate 9.000000
+     SpDens: 0.166580, 0.261520 
+Done iteration 277, BirthRate 7.500000, PredationRate 9.500000
+     SpDens: 0.154874, 0.248266 
+Done iteration 278, BirthRate 7.500000, PredationRate 10.000000
+     SpDens: 0.147903, 0.241249 
+Done iteration 279, BirthRate 7.500000, PredationRate 10.500000
+     SpDens: 0.137255, 0.231733 
+Done iteration 280, BirthRate 7.500000, PredationRate 11.000000
+     SpDens: 0.129522, 0.221168 
+Done iteration 281, BirthRate 8.000000, PredationRate 1.500000
+     SpDens: 0.999750, 0.000205 
+Done iteration 282, BirthRate 8.000000, PredationRate 2.000000
+     SpDens: 0.783229, 0.167365 
+Done iteration 283, BirthRate 8.000000, PredationRate 2.500000
+     SpDens: 0.578477, 0.301876 
+Done iteration 284, BirthRate 8.000000, PredationRate 3.000000
+     SpDens: 0.468502, 0.353374 
+Done iteration 285, BirthRate 8.000000, PredationRate 3.500000
+     SpDens: 0.398330, 0.372549 
+Done iteration 286, BirthRate 8.000000, PredationRate 4.000000
+     SpDens: 0.349846, 0.376366 
+Done iteration 287, BirthRate 8.000000, PredationRate 4.500000
+     SpDens: 0.312146, 0.372681 
+Done iteration 288, BirthRate 8.000000, PredationRate 5.000000
+     SpDens: 0.283527, 0.363932 
+Done iteration 289, BirthRate 8.000000, PredationRate 5.500000
+     SpDens: 0.259672, 0.353021 
+Done iteration 290, BirthRate 8.000000, PredationRate 6.000000
+     SpDens: 0.239783, 0.341499 
+Done iteration 291, BirthRate 8.000000, PredationRate 6.500000
+     SpDens: 0.224179, 0.328377 
+Done iteration 292, BirthRate 8.000000, PredationRate 7.000000
+     SpDens: 0.209919, 0.316584 
+Done iteration 293, BirthRate 8.000000, PredationRate 7.500000
+     SpDens: 0.197156, 0.303100 
+Done iteration 294, BirthRate 8.000000, PredationRate 8.000000
+     SpDens: 0.185900, 0.292821 
+Done iteration 295, BirthRate 8.000000, PredationRate 8.500000
+     SpDens: 0.176807, 0.282308 
+Done iteration 296, BirthRate 8.000000, PredationRate 9.000000
+     SpDens: 0.166689, 0.271683 
+Done iteration 297, BirthRate 8.000000, PredationRate 9.500000
+     SpDens: 0.155879, 0.259978 
+Done iteration 298, BirthRate 8.000000, PredationRate 10.000000
+     SpDens: 0.145809, 0.247293 
+Done iteration 299, BirthRate 8.000000, PredationRate 10.500000
+     SpDens: 0.139342, 0.239498 
+Done iteration 300, BirthRate 8.000000, PredationRate 11.000000
+     SpDens: 0.130457, 0.231163 
+Done iteration 301, BirthRate 8.500000, PredationRate 1.500000
+     SpDens: 0.999790, 0.000174 
+Done iteration 302, BirthRate 8.500000, PredationRate 2.000000
+     SpDens: 0.772375, 0.177860 
+Done iteration 303, BirthRate 8.500000, PredationRate 2.500000
+     SpDens: 0.568384, 0.313180 
+Done iteration 304, BirthRate 8.500000, PredationRate 3.000000
+     SpDens: 0.461723, 0.362881 
+Done iteration 305, BirthRate 8.500000, PredationRate 3.500000
+     SpDens: 0.393581, 0.381952 
+Done iteration 306, BirthRate 8.500000, PredationRate 4.000000
+     SpDens: 0.344208, 0.386229 
+Done iteration 307, BirthRate 8.500000, PredationRate 4.500000
+     SpDens: 0.307677, 0.381822 
+Done iteration 308, BirthRate 8.500000, PredationRate 5.000000
+     SpDens: 0.279176, 0.373267 
+Done iteration 309, BirthRate 8.500000, PredationRate 5.500000
+     SpDens: 0.256495, 0.363011 
+Done iteration 310, BirthRate 8.500000, PredationRate 6.000000
+     SpDens: 0.237301, 0.350328 
+Done iteration 311, BirthRate 8.500000, PredationRate 6.500000
+     SpDens: 0.221074, 0.337324 
+Done iteration 312, BirthRate 8.500000, PredationRate 7.000000
+     SpDens: 0.207331, 0.326967 
+Done iteration 313, BirthRate 8.500000, PredationRate 7.500000
+     SpDens: 0.194855, 0.312564 
+Done iteration 314, BirthRate 8.500000, PredationRate 8.000000
+     SpDens: 0.183254, 0.303262 
+Done iteration 315, BirthRate 8.500000, PredationRate 8.500000
+     SpDens: 0.174305, 0.290812 
+Done iteration 316, BirthRate 8.500000, PredationRate 9.000000
+     SpDens: 0.165782, 0.279087 
+Done iteration 317, BirthRate 8.500000, PredationRate 9.500000
+     SpDens: 0.155703, 0.267878 
+Done iteration 318, BirthRate 8.500000, PredationRate 10.000000
+     SpDens: 0.146232, 0.256671 
+Done iteration 319, BirthRate 8.500000, PredationRate 10.500000
+     SpDens: 0.138956, 0.248446 
+Done iteration 320, BirthRate 8.500000, PredationRate 11.000000
+     SpDens: 0.131196, 0.239163 
+Done iteration 321, BirthRate 9.000000, PredationRate 1.500000
+     SpDens: 0.999008, 0.000815 
+Done iteration 322, BirthRate 9.000000, PredationRate 2.000000
+     SpDens: 0.764149, 0.186084 
+Done iteration 323, BirthRate 9.000000, PredationRate 2.500000
+     SpDens: 0.563198, 0.320414 
+Done iteration 324, BirthRate 9.000000, PredationRate 3.000000
+     SpDens: 0.457824, 0.371008 
+Done iteration 325, BirthRate 9.000000, PredationRate 3.500000
+     SpDens: 0.389641, 0.390396 
+Done iteration 326, BirthRate 9.000000, PredationRate 4.000000
+     SpDens: 0.340756, 0.394944 
+Done iteration 327, BirthRate 9.000000, PredationRate 4.500000
+     SpDens: 0.305737, 0.390236 
+Done iteration 328, BirthRate 9.000000, PredationRate 5.000000
+     SpDens: 0.278120, 0.381869 
+Done iteration 329, BirthRate 9.000000, PredationRate 5.500000
+     SpDens: 0.254594, 0.371842 
+Done iteration 330, BirthRate 9.000000, PredationRate 6.000000
+     SpDens: 0.236005, 0.360592 
+Done iteration 331, BirthRate 9.000000, PredationRate 6.500000
+     SpDens: 0.220523, 0.346583 
+Done iteration 332, BirthRate 9.000000, PredationRate 7.000000
+     SpDens: 0.206280, 0.333849 
+Done iteration 333, BirthRate 9.000000, PredationRate 7.500000
+     SpDens: 0.193982, 0.322413 
+Done iteration 334, BirthRate 9.000000, PredationRate 8.000000
+     SpDens: 0.182627, 0.310394 
+Done iteration 335, BirthRate 9.000000, PredationRate 8.500000
+     SpDens: 0.173952, 0.300594 
+Done iteration 336, BirthRate 9.000000, PredationRate 9.000000
+     SpDens: 0.164650, 0.288109 
+Done iteration 337, BirthRate 9.000000, PredationRate 9.500000
+     SpDens: 0.154586, 0.275447 
+Done iteration 338, BirthRate 9.000000, PredationRate 10.000000
+     SpDens: 0.147431, 0.267038 
+Done iteration 339, BirthRate 9.000000, PredationRate 10.500000
+     SpDens: 0.139565, 0.257125 
+Done iteration 340, BirthRate 9.000000, PredationRate 11.000000
+     SpDens: 0.132190, 0.247322 
+Done iteration 341, BirthRate 9.500000, PredationRate 1.500000
+     SpDens: 0.999589, 0.000344 
+Done iteration 342, BirthRate 9.500000, PredationRate 2.000000
+     SpDens: 0.768797, 0.184456
+Done iteration 343, BirthRate 9.500000, PredationRate 2.500000
+     SpDens: 0.562647, 0.325006 
+Done iteration 344, BirthRate 9.500000, PredationRate 3.000000
+     SpDens: 0.458908, 0.375702 
+Done iteration 345, BirthRate 9.500000, PredationRate 3.500000
+     SpDens: 0.390056, 0.396514 
+Done iteration 346, BirthRate 9.500000, PredationRate 4.000000
+     SpDens: 0.340437, 0.402284 
+Done iteration 347, BirthRate 9.500000, PredationRate 4.500000
+     SpDens: 0.305966, 0.398275 
+Done iteration 348, BirthRate 9.500000, PredationRate 5.000000
+     SpDens: 0.276953, 0.390763 
+Done iteration 349, BirthRate 9.500000, PredationRate 5.500000
+     SpDens: 0.254391, 0.380556 
+Done iteration 350, BirthRate 9.500000, PredationRate 6.000000
+     SpDens: 0.235289, 0.369712 
+Done iteration 351, BirthRate 9.500000, PredationRate 6.500000
+     SpDens: 0.220436, 0.355923 
+Done iteration 352, BirthRate 9.500000, PredationRate 7.000000
+     SpDens: 0.205983, 0.343690 
+Done iteration 353, BirthRate 9.500000, PredationRate 7.500000
+     SpDens: 0.193220, 0.331926 
+Done iteration 354, BirthRate 9.500000, PredationRate 8.000000
+     SpDens: 0.182931, 0.320315 
+Done iteration 355, BirthRate 9.500000, PredationRate 8.500000
+     SpDens: 0.174047, 0.309959 
+Done iteration 356, BirthRate 9.500000, PredationRate 9.000000
+     SpDens: 0.165169, 0.297690 
+Done iteration 357, BirthRate 9.500000, PredationRate 9.500000
+     SpDens: 0.156560, 0.285923 
+Done iteration 358, BirthRate 9.500000, PredationRate 10.000000
+     SpDens: 0.148950, 0.275002 
+Done iteration 359, BirthRate 9.500000, PredationRate 10.500000
+     SpDens: 0.140935, 0.266001 
+Done iteration 360, BirthRate 9.500000, PredationRate 11.000000
+     SpDens: 0.132519, 0.255876 
+Done iteration 361, BirthRate 10.000000, PredationRate 1.500000
+     SpDens: 0.999550, 0.000380 
+Done iteration 362, BirthRate 10.000000, PredationRate 2.000000
+     SpDens: 0.760814, 0.192612 
+Done iteration 363, BirthRate 10.000000, PredationRate 2.500000
+     SpDens: 0.560785, 0.329946 
+Done iteration 364, BirthRate 10.000000, PredationRate 3.000000
+     SpDens: 0.456553, 0.381852 
+Done iteration 365, BirthRate 10.000000, PredationRate 3.500000
+     SpDens: 0.388279, 0.403681 
+Done iteration 366, BirthRate 10.000000, PredationRate 4.000000
+     SpDens: 0.339383, 0.408812 
+Done iteration 367, BirthRate 10.000000, PredationRate 4.500000
+     SpDens: 0.304914, 0.405232 
+Done iteration 368, BirthRate 10.000000, PredationRate 5.000000
+     SpDens: 0.275465, 0.397941 
+Done iteration 369, BirthRate 10.000000, PredationRate 5.500000
+     SpDens: 0.253109, 0.388788 
+Done iteration 370, BirthRate 10.000000, PredationRate 6.000000
+     SpDens: 0.233988, 0.377332 
+Done iteration 371, BirthRate 10.000000, PredationRate 6.500000
+     SpDens: 0.219078, 0.365142 
+Done iteration 372, BirthRate 10.000000, PredationRate 7.000000
+     SpDens: 0.204622, 0.352060 
+Done iteration 373, BirthRate 10.000000, PredationRate 7.500000
+     SpDens: 0.192925, 0.338447 
+Done iteration 374, BirthRate 10.000000, PredationRate 8.000000
+     SpDens: 0.182791, 0.325995 
+Done iteration 375, BirthRate 10.000000, PredationRate 8.500000
+     SpDens: 0.173407, 0.318776 
+Done iteration 376, BirthRate 10.000000, PredationRate 9.000000
+     SpDens: 0.164434, 0.306689 
+Done iteration 377, BirthRate 10.000000, PredationRate 9.500000
+     SpDens: 0.156711, 0.293452 
+Done iteration 378, BirthRate 10.000000, PredationRate 10.000000
+     SpDens: 0.149182, 0.282710 
+Done iteration 379, BirthRate 10.000000, PredationRate 10.500000
+     SpDens: 0.141665, 0.273857 
+Done iteration 380, BirthRate 10.000000, PredationRate 11.000000
+     SpDens: 0.135699, 0.263645 
+Done iteration 381, BirthRate 10.500000, PredationRate 1.500000
+     SpDens: 0.998932, 0.000908 
+Done iteration 382, BirthRate 10.500000, PredationRate 2.000000
+     SpDens: 0.759286, 0.195232 
+Done iteration 383, BirthRate 10.500000, PredationRate 2.500000
+     SpDens: 0.558393, 0.335074 
+Done iteration 384, BirthRate 10.500000, PredationRate 3.000000
+     SpDens: 0.449988, 0.390289 
+Done iteration 385, BirthRate 10.500000, PredationRate 3.500000
+     SpDens: 0.385693, 0.410303 
+Done iteration 386, BirthRate 10.500000, PredationRate 4.000000
+     SpDens: 0.337583, 0.415961 
+Done iteration 387, BirthRate 10.500000, PredationRate 4.500000
+     SpDens: 0.302393, 0.413233 
+Done iteration 388, BirthRate 10.500000, PredationRate 5.000000
+     SpDens: 0.274242, 0.405586 
+Done iteration 389, BirthRate 10.500000, PredationRate 5.500000
+     SpDens: 0.251079, 0.395819 
+Done iteration 390, BirthRate 10.500000, PredationRate 6.000000
+     SpDens: 0.233244, 0.383337 
+Done iteration 391, BirthRate 10.500000, PredationRate 6.500000
+     SpDens: 0.217072, 0.371889 
+Done iteration 392, BirthRate 10.500000, PredationRate 7.000000
+     SpDens: 0.204628, 0.360173 
+Done iteration 393, BirthRate 10.500000, PredationRate 7.500000
+     SpDens: 0.192456, 0.345334 
+Done iteration 394, BirthRate 10.500000, PredationRate 8.000000
+     SpDens: 0.181292, 0.334264 
+Done iteration 395, BirthRate 10.500000, PredationRate 8.500000
+     SpDens: 0.173213, 0.325756 
+Done iteration 396, BirthRate 10.500000, PredationRate 9.000000
+     SpDens: 0.164198, 0.313135 
+Done iteration 397, BirthRate 10.500000, PredationRate 9.500000
+     SpDens: 0.155889, 0.300472 
+Done iteration 398, BirthRate 10.500000, PredationRate 10.000000
+     SpDens: 0.148848, 0.290891 
+Done iteration 399, BirthRate 10.500000, PredationRate 10.500000
+     SpDens: 0.140792, 0.280680 
+
+

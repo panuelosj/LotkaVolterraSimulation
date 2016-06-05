@@ -1,0 +1,308 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"totalHe",
+				"totalHeatPre"
+			],
+			[
+				"LIN",
+				"LINE_PLOT_Y1"
+			],
+			[
+				"Line",
+				"LINE_PLOT_Y"
+			],
+			[
+				"total",
+				"totalHeatOld"
+			],
+			[
+				"tGlo",
+				"tGlobal"
+			],
+			[
+				"tGlobal",
+				"tGlobalOld"
+			],
+			[
+				"ENV_",
+				"ENV_SIZE_X"
+			],
+			[
+				"stude",
+				"studentNumbRaw"
+			],
+			[
+				"student",
+				"studentNumb"
+			],
+			[
+				"ENV",
+				"ENV_SIZE_Y"
+			],
+			[
+				"ENV_SIZE",
+				"ENV_SIZE_X"
+			],
+			[
+				"ste",
+				"studentNumbRaw"
+			],
+			[
+				"studen",
+				"studentNumbRaw"
+			],
+			[
+				"Student",
+				"studentNumbWorking"
+			],
+			[
+				"studentNumb",
+				"studentNumbRaw"
+			],
+			[
+				"EV_",
+				"ENV_SIZE_TOTAL"
+			],
+			[
+				"int",
+				"int"
+			],
+			[
+				"ENV_SI",
+				"ENV_SIZE_TOTAL"
+			],
+			[
+				"popDens",
+				"popDensB"
+			],
+			[
+				"ENV_S",
+				"ENV_SIZE_X"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"E",
+				"ENV_SIZE_Y"
+			],
+			[
+				"NETNUR",
+				"NET_NUR_OUT"
+			],
+			[
+				"alloca",
+				"allocateArray2D"
+			],
+			[
+				"allocateArra",
+				"allocateArray1D"
+			],
+			[
+				"make",
+				"makeNetArray"
+			],
+			[
+				"weig",
+				"weightsOld"
+			],
+			[
+				"layer",
+				"layerIndex"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/shirokko/Desktop/HEAT/heatMisc.c",
+		"/home/shirokko/Desktop/HEAT/heatCalculations.c",
+		"/home/shirokko/Desktop/HEAT/heatArrayAllocate.c",
+		"/home/shirokko/Desktop/HEAT/heat.h",
+		"/home/shirokko/Desktop/HEAT/heat.c",
+		"/home/shirokko/Desktop/EP/ecoPlots.c",
+		"/home/shirokko/Desktop/EP/ecoMisc.c",
+		"/home/shirokko/Desktop/EP/ecoCalculations.c",
+		"/home/shirokko/Desktop/EP/eco.h",
+		"/home/shirokko/Desktop/EP/eco.c",
+		"/home/shirokko/Desktop/EP/Makefile",
+		"/home/shirokko/Desktop/EP/ecoArrayAllocate.c",
+		"/home/shirokko/Desktop/HEAT/Makefile",
+		"/home/shirokko/Desktop/EP/makefile",
+		"/home/shirokko/Desktop/heatEquation1.0/heat.c",
+		"/home/shirokko/Desktop/2G03 Project3/net.c",
+		"/home/shirokko/Desktop/2G03 Project3/netArrayAllocate.c",
+		"/home/shirokko/Desktop/2G03 Project3/netMisc.c",
+		"/home/shirokko/Desktop/2G03 Project3/netMath.c",
+		"/home/shirokko/Desktop/2G03 Project3/net.h",
+		"/home/shirokko/Desktop/2G03 Project3/netFileIO.c",
+		"/home/shirokko/Desktop/2G03 Project3/netArrayAllocate.o",
+		"/home/shirokko/Desktop/2G03 Project3/net",
+		"/home/shirokko/Desktop/2G03 Project3/net_output_stuffs.csv",
+		"/home/shirokko/Desktop/2G03 Project3/net_output_MSE.csv",
+		"/home/shirokko/Desktop/2G03 Project3/net_output_DiagnosticMSE.csv",
+		"/home/shirokko/Desktop/2G03 Project3/net.o",
+		"/home/shirokko/Desktop/2G03 Project3/netMisc.o",
+		"/home/shirokko/Desktop/2G03 Project3/netMath.o",
+		"/home/shirokko/Desktop/2G03 Project3/netFileIO.o",
+		"/home/shirokko/Desktop/2G03 Project3/arrayAllocate.c",
+		"/home/shirokko/Desktop/2G03 Project3/miscProcessing.c",
+		"/home/shirokko/Desktop/2G03 Project3/csvFileIO.c",
+		"/home/shirokko/Desktop/2G03 Project3/neuralNetMath.c",
+		"/home/shirokko/Desktop/kernelMatrix/net.c",
+		"/home/shirokko/Desktop/2G03 Project2/net.c",
+		"/home/shirokko/Desktop/2G03 Project/net.c",
+		"/home/shirokko/.config/sublime-text-2/Packages/User/C.sublime-settings",
+		"/home/shirokko/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"}",
+			"Flux",
+			"plotImg",
+			"ecoRun",
+			"RAND_MA",
+			"f",
+			"2",
+			");\n",
+			"printNormalized",
+			"backprop(",
+			"feed(",
+			"[numbLayers",
+			"NET_NUR",
+			"dataSet",
+			"arraymaxindex",
+			"normalizedDataSet",
+			"dataset",
+			"datasets",
+			"numbLayers",
+			"NET_LAYERS",
+			"err",
+			"filename",
+			"NUMB_ROWS",
+			"MAX_ARR_COLS",
+			"MAX_ARR_ROWS"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

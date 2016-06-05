@@ -1,0 +1,11 @@
+eco: eco.o ecoArrayAllocate.o ecoMisc.o eco.h
+	gcc -o eco eco.o ecoArrayAllocate.o ecoMisc.o -lpgplot -lcpgplot -lX11 -lm
+
+eco.o: eco.c eco.h
+	gcc -c eco.c
+
+ecoArrayAllocate.o: ecoArrayAllocate.c eco.h
+	gcc -c ecoArrayAllocate.c
+
+ecoMisc.o: ecoMisc.c eco.h
+	gcc -c ecoMisc.c
